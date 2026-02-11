@@ -1,2 +1,2 @@
 # advanced-keylogger
-Advanced keylogger:
+Just a keylogger in python.
